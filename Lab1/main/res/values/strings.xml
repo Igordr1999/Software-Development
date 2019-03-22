@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Счетчик фото</string>
+    <string name="action_settings">Кнопка настроек</string>
+</resources>
